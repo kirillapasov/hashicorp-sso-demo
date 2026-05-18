@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: hashicorp-sso-demo
+  cloud:
+    vault:
+      enabled: false
+
+server:
+  port: 8080
